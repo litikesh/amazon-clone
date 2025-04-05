@@ -1,6 +1,6 @@
 # Amazon Clone
 
-Amazon Clone is the Fully functional Real custom made Web application that covers and entire E-commerece functionality from designing, User Authentication till Payments build using `React JS`, `Firebase`, `Redux` and `Stripe`.
+Amazon Clone is the Fully functional Real custom made Web application that covers and entire E-commerece functionality from designing, User Authentication till Payments build using `React JS`, `Firebase` and `Stripe`.
 
 ### Features 
 
